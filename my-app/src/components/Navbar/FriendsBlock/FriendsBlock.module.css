@@ -1,0 +1,7 @@
+.friendsBlock{
+    padding-top: 60px;
+    color: white;
+}
+.friendsList{
+    display: flex;
+}

@@ -1,0 +1,21 @@
+.nav{
+    grid-area: n;
+    /*margin-left: 150px;*/
+    background-color: #12231f;
+    padding: 20px;
+    align-self: start;
+    border-radius: 16px;
+
+
+}
+.item {
+    color: white;
+    text-decoration: none;
+}
+.active {
+    color: #048f6b;
+}
+.item:hover {
+    background-color: #1e3a35;
+}
+

@@ -1,0 +1,9 @@
+.miniProfile{
+    width: 52px;
+    height: 70px;
+}
+.miniProfile img{
+    width: 46px;
+    height: 46px;
+    border-radius: 40px;
+}
